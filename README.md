@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojn26" alt="manojn26" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/manoj_feb" target="blank"><img src="https://img.shields.io/twitter/follow/manojprodev?logo=twitter&style=for-the-badge" alt="manojprodev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/manoj_feb" target="blank"><img src="https://img.shields.io/twitter/follow/manoj_feb?logo=twitter&style=for-the-badge" alt="manoj_feb" /></a> </p>
 
 - 🌱 I’m currently learning **React, Node, DSA**
 
