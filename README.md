@@ -15,7 +15,9 @@
 
 - 📫 How to reach me **manojcsengineer@gmail.com**
 
-- ⚡ Fun fact **I i'm lazy Guy, with lot's of Dreams.**
+- ⚡ 👨‍💻 Manoj Kumar N | Frontend Developer 
+
+Crafting intuitive web experiences with a focus on clean code and modern technologies. Passionate about building scalable solutions and continuously learning in the tech space. Fresh graduate ready to innovate and collaborate. Let's create something amazing together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
